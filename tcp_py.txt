@@ -1,0 +1,5269 @@
+c001147c0001
+c00212680000
+analyzing IP packet 1
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265614
+ack:0
+c00212680000
+c001147c0001
+analyzing IP packet 2
+tos:0
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798152218
+ack:179265615
+c001147c0001
+c00212680000
+analyzing IP packet 3
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265615
+ack:2798152219
+c001147c0001
+c00212680000
+analyzing IP packet 4
+tos:2
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265615
+ack:2798152219
+c00212680000
+c001147c0001
+analyzing IP packet 5
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798152219
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 6
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798152475
+c00212680000
+c001147c0001
+analyzing IP packet 7
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798152475
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 8
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798152756
+c00212680000
+c001147c0001
+analyzing IP packet 9
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798152756
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 10
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798152756
+c001147c0001
+c00212680000
+analyzing IP packet 11
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798153268
+c00212680000
+c001147c0001
+analyzing IP packet 12
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798153268
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 13
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798153804
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 14
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798153804
+c001147c0001
+c00212680000
+analyzing IP packet 15
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798153804
+c001147c0001
+c00212680000
+analyzing IP packet 16
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798154340
+c001147c0001
+c00212680000
+analyzing IP packet 17
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798154340
+c00212680000
+c001147c0001
+analyzing IP packet 18
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798154340
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 19
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798154854
+c00212680000
+c001147c0001
+analyzing IP packet 20
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798154854
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 21
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798155390
+c001147c0001
+c00212680000
+analyzing IP packet 22
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798155390
+c00212680000
+c001147c0001
+analyzing IP packet 23
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798155390
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 24
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798155926
+c00212680000
+c001147c0001
+analyzing IP packet 25
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798155926
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 26
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798155926
+c001147c0001
+c00212680000
+analyzing IP packet 27
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798156462
+c001147c0001
+c00212680000
+analyzing IP packet 28
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798156462
+c00212680000
+c001147c0001
+analyzing IP packet 29
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798156462
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 30
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798156998
+c001147c0001
+c00212680000
+analyzing IP packet 31
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798156998
+c00212680000
+c001147c0001
+analyzing IP packet 32
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798156998
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 33
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798157534
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 34
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798157534
+c001147c0001
+c00212680000
+analyzing IP packet 35
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798158070
+c001147c0001
+c00212680000
+analyzing IP packet 36
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798158070
+c001147c0001
+c00212680000
+analyzing IP packet 37
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798158070
+c00212680000
+c001147c0001
+analyzing IP packet 38
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798158070
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 39
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798158606
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 40
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798158606
+c001147c0001
+c00212680000
+analyzing IP packet 41
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798159142
+c001147c0001
+c00212680000
+analyzing IP packet 42
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798159142
+c001147c0001
+c00212680000
+analyzing IP packet 43
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798159142
+c00212680000
+c001147c0001
+analyzing IP packet 44
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798159142
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 45
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798159678
+c001147c0001
+c00212680000
+analyzing IP packet 46
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798159678
+c00212680000
+c001147c0001
+analyzing IP packet 47
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798159678
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 48
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798160214
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 49
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798160214
+c001147c0001
+c00212680000
+analyzing IP packet 50
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798160750
+c001147c0001
+c00212680000
+analyzing IP packet 51
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798160750
+c001147c0001
+c00212680000
+analyzing IP packet 52
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798160750
+c00212680000
+c001147c0001
+analyzing IP packet 53
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798160750
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 54
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798161286
+c001147c0001
+c00212680000
+analyzing IP packet 55
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798161286
+c00212680000
+c001147c0001
+analyzing IP packet 56
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798161286
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 57
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798161822
+c001147c0001
+c00212680000
+analyzing IP packet 58
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798161822
+c00212680000
+c001147c0001
+analyzing IP packet 59
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798161822
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 60
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798162358
+c00212680000
+c001147c0001
+analyzing IP packet 61
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798162358
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 62
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798162358
+c001147c0001
+c00212680000
+analyzing IP packet 63
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798162894
+c001147c0001
+c00212680000
+analyzing IP packet 64
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798162894
+c00212680000
+c001147c0001
+analyzing IP packet 65
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798162894
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 66
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798163430
+c001147c0001
+c00212680000
+analyzing IP packet 67
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798163430
+c00212680000
+c001147c0001
+analyzing IP packet 68
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798163430
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 69
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798163966
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 70
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798163966
+c001147c0001
+c00212680000
+analyzing IP packet 71
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798164502
+c001147c0001
+c00212680000
+analyzing IP packet 72
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798164502
+c001147c0001
+c00212680000
+analyzing IP packet 73
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798164502
+c00212680000
+c001147c0001
+analyzing IP packet 74
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798164502
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 75
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798165038
+c001147c0001
+c00212680000
+analyzing IP packet 76
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798165038
+c00212680000
+c001147c0001
+analyzing IP packet 77
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798165038
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 78
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798165574
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 79
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798165574
+c001147c0001
+c00212680000
+analyzing IP packet 80
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798166110
+c001147c0001
+c00212680000
+analyzing IP packet 81
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798166110
+c001147c0001
+c00212680000
+analyzing IP packet 82
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798166110
+c00212680000
+c001147c0001
+analyzing IP packet 83
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798166110
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 84
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798166646
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 85
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798166646
+c001147c0001
+c00212680000
+analyzing IP packet 86
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798167182
+c001147c0001
+c00212680000
+analyzing IP packet 87
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798167182
+c001147c0001
+c00212680000
+analyzing IP packet 88
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798167182
+c00212680000
+c001147c0001
+analyzing IP packet 89
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798167182
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 90
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798167718
+c00212680000
+c001147c0001
+analyzing IP packet 91
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798167718
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 92
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798167718
+c001147c0001
+c00212680000
+analyzing IP packet 93
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798168254
+c001147c0001
+c00212680000
+analyzing IP packet 94
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798168254
+c00212680000
+c001147c0001
+analyzing IP packet 95
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798168254
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 96
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798168790
+c001147c0001
+c00212680000
+analyzing IP packet 97
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798168790
+c00212680000
+c001147c0001
+analyzing IP packet 98
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798168790
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 99
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798169326
+c001147c0001
+c00212680000
+analyzing IP packet 100
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798169326
+c00212680000
+c001147c0001
+analyzing IP packet 101
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798169326
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 102
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798169862
+c001147c0001
+c00212680000
+analyzing IP packet 103
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798169862
+c00212680000
+c001147c0001
+analyzing IP packet 104
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798169862
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 105
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798170398
+c001147c0001
+c00212680000
+analyzing IP packet 106
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798170398
+c00212680000
+c001147c0001
+analyzing IP packet 107
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798170398
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 108
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798170934
+c001147c0001
+c00212680000
+analyzing IP packet 109
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798170934
+c00212680000
+c001147c0001
+analyzing IP packet 110
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798170934
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 111
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798171470
+c001147c0001
+c00212680000
+analyzing IP packet 112
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798171470
+c00212680000
+c001147c0001
+analyzing IP packet 113
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798171470
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 114
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798172006
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 115
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798172006
+c001147c0001
+c00212680000
+analyzing IP packet 116
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798172542
+c001147c0001
+c00212680000
+analyzing IP packet 117
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798172542
+c001147c0001
+c00212680000
+analyzing IP packet 118
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798172542
+c00212680000
+c001147c0001
+analyzing IP packet 119
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798172542
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 120
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798173078
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 121
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798173078
+c001147c0001
+c00212680000
+analyzing IP packet 122
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798173078
+c001147c0001
+c00212680000
+analyzing IP packet 123
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798173612
+c00212680000
+c001147c0001
+analyzing IP packet 124
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798173612
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 125
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798174148
+c001147c0001
+c00212680000
+analyzing IP packet 126
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798174148
+c00212680000
+c001147c0001
+analyzing IP packet 127
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798174148
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 128
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798174684
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 129
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798174684
+c001147c0001
+c00212680000
+analyzing IP packet 130
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798175216
+c001147c0001
+c00212680000
+analyzing IP packet 131
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798175216
+c00212680000
+c001147c0001
+analyzing IP packet 132
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798175216
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 133
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798175752
+c001147c0001
+c00212680000
+analyzing IP packet 134
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798175752
+c00212680000
+c001147c0001
+analyzing IP packet 135
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798175752
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 136
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798176288
+c001147c0001
+c00212680000
+analyzing IP packet 137
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798176288
+c00212680000
+c001147c0001
+analyzing IP packet 138
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798176288
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 139
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798176824
+c001147c0001
+c00212680000
+analyzing IP packet 140
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798176824
+c00212680000
+c001147c0001
+analyzing IP packet 141
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798176824
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 142
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798177360
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 143
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798177360
+c001147c0001
+c00212680000
+analyzing IP packet 144
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798177896
+c001147c0001
+c00212680000
+analyzing IP packet 145
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798177896
+c001147c0001
+c00212680000
+analyzing IP packet 146
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798177896
+c00212680000
+c001147c0001
+analyzing IP packet 147
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798177896
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 148
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798178432
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 149
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798178432
+c001147c0001
+c00212680000
+analyzing IP packet 150
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798178432
+c001147c0001
+c00212680000
+analyzing IP packet 151
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798178968
+c001147c0001
+c00212680000
+analyzing IP packet 152
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798178968
+c00212680000
+c001147c0001
+analyzing IP packet 153
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798178968
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 154
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798179504
+c001147c0001
+c00212680000
+analyzing IP packet 155
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798179504
+c00212680000
+c001147c0001
+analyzing IP packet 156
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798179504
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 157
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798180040
+c00212680000
+c001147c0001
+analyzing IP packet 158
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798180040
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 159
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798180040
+c001147c0001
+c00212680000
+analyzing IP packet 160
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798180466
+c00212680000
+c001147c0001
+analyzing IP packet 161
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798180466
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 162
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798181002
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 163
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798181002
+c001147c0001
+c00212680000
+analyzing IP packet 164
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798181538
+c001147c0001
+c00212680000
+analyzing IP packet 165
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798181538
+c001147c0001
+c00212680000
+analyzing IP packet 166
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798181538
+c00212680000
+c001147c0001
+analyzing IP packet 167
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798181538
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 168
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798181679
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 169
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798181679
+c001147c0001
+c00212680000
+analyzing IP packet 170
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798182215
+c001147c0001
+c00212680000
+analyzing IP packet 171
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798182215
+c00212680000
+c001147c0001
+analyzing IP packet 172
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798182215
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 173
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798182751
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 174
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798182751
+c001147c0001
+c00212680000
+analyzing IP packet 175
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798183287
+c001147c0001
+c00212680000
+analyzing IP packet 176
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798183287
+c001147c0001
+c00212680000
+analyzing IP packet 177
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798183287
+c00212680000
+c001147c0001
+analyzing IP packet 178
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798183287
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 179
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798183823
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 180
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798183823
+c001147c0001
+c00212680000
+analyzing IP packet 181
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798184199
+c001147c0001
+c00212680000
+analyzing IP packet 182
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798184199
+c00212680000
+c001147c0001
+analyzing IP packet 183
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798184199
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 184
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798184239
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 185
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798184239
+c001147c0001
+c00212680000
+analyzing IP packet 186
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798184775
+c001147c0001
+c00212680000
+analyzing IP packet 187
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798184775
+c00212680000
+c001147c0001
+analyzing IP packet 188
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798184775
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 189
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798185311
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 190
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798185311
+c001147c0001
+c00212680000
+analyzing IP packet 191
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798185817
+c001147c0001
+c00212680000
+analyzing IP packet 192
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798185817
+c00212680000
+c001147c0001
+analyzing IP packet 193
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798185817
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 194
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798186353
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 195
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798186353
+c001147c0001
+c00212680000
+analyzing IP packet 196
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798186730
+c001147c0001
+c00212680000
+analyzing IP packet 197
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798186730
+c00212680000
+c001147c0001
+analyzing IP packet 198
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798186730
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 199
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798186799
+c00212680000
+c001147c0001
+analyzing IP packet 200
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798186799
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 201
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798187335
+c001147c0001
+c00212680000
+analyzing IP packet 202
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798187335
+c00212680000
+c001147c0001
+analyzing IP packet 203
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798187335
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 204
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798187871
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 205
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798187871
+c001147c0001
+c00212680000
+analyzing IP packet 206
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798187871
+c001147c0001
+c00212680000
+analyzing IP packet 207
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798188378
+c00212680000
+c001147c0001
+analyzing IP packet 208
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798188378
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 209
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798188914
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 210
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798188914
+c001147c0001
+c00212680000
+analyzing IP packet 211
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798189291
+c001147c0001
+c00212680000
+analyzing IP packet 212
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798189291
+c00212680000
+c001147c0001
+analyzing IP packet 213
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798189291
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 214
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798189359
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 215
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798189359
+c001147c0001
+c00212680000
+analyzing IP packet 216
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798189895
+c001147c0001
+c00212680000
+analyzing IP packet 217
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798189895
+c00212680000
+c001147c0001
+analyzing IP packet 218
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798189895
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 219
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798190431
+c001147c0001
+c00212680000
+analyzing IP packet 220
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798190431
+c00212680000
+c001147c0001
+analyzing IP packet 221
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798190431
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 222
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798190967
+c001147c0001
+c00212680000
+analyzing IP packet 223
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798190967
+c00212680000
+c001147c0001
+analyzing IP packet 224
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798190967
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 225
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798191503
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 226
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798191503
+c001147c0001
+c00212680000
+analyzing IP packet 227
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798191880
+c001147c0001
+c00212680000
+analyzing IP packet 228
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798191880
+c00212680000
+c001147c0001
+analyzing IP packet 229
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798191880
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 230
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798192416
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 231
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798192416
+c001147c0001
+c00212680000
+analyzing IP packet 232
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798192952
+c001147c0001
+c00212680000
+analyzing IP packet 233
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798192952
+c001147c0001
+c00212680000
+analyzing IP packet 234
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798192952
+c00212680000
+c001147c0001
+analyzing IP packet 235
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798192952
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 236
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798193199
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 237
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798193199
+c001147c0001
+c00212680000
+analyzing IP packet 238
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798193735
+c001147c0001
+c00212680000
+analyzing IP packet 239
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798193735
+c00212680000
+c001147c0001
+analyzing IP packet 240
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798193735
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 241
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798194271
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 242
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798194271
+c001147c0001
+c00212680000
+analyzing IP packet 243
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798194779
+c001147c0001
+c00212680000
+analyzing IP packet 244
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798194779
+c00212680000
+c001147c0001
+analyzing IP packet 245
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798194779
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 246
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798195315
+c001147c0001
+c00212680000
+analyzing IP packet 247
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798195315
+c00212680000
+c001147c0001
+analyzing IP packet 248
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798195315
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 249
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798195851
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 250
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798195851
+c001147c0001
+c00212680000
+analyzing IP packet 251
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798196359
+c001147c0001
+c00212680000
+analyzing IP packet 252
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798196359
+c00212680000
+c001147c0001
+analyzing IP packet 253
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798196359
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 254
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798196895
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 255
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798196895
+c001147c0001
+c00212680000
+analyzing IP packet 256
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798197431
+c001147c0001
+c00212680000
+analyzing IP packet 257
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798197431
+c001147c0001
+c00212680000
+analyzing IP packet 258
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798197431
+c00212680000
+c001147c0001
+analyzing IP packet 259
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798197431
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 260
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798197967
+c001147c0001
+c00212680000
+analyzing IP packet 261
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798197967
+c00212680000
+c001147c0001
+analyzing IP packet 262
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798197967
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 263
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798198503
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 264
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798198503
+c001147c0001
+c00212680000
+analyzing IP packet 265
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798199039
+c001147c0001
+c00212680000
+analyzing IP packet 266
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798199039
+c001147c0001
+c00212680000
+analyzing IP packet 267
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798199039
+c00212680000
+c001147c0001
+analyzing IP packet 268
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798199039
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 269
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798199575
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 270
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798199575
+c001147c0001
+c00212680000
+analyzing IP packet 271
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798200111
+c001147c0001
+c00212680000
+analyzing IP packet 272
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798200111
+c001147c0001
+c00212680000
+analyzing IP packet 273
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798200111
+c00212680000
+c001147c0001
+analyzing IP packet 274
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798200111
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 275
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798200647
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 276
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798200647
+c001147c0001
+c00212680000
+analyzing IP packet 277
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798201183
+c001147c0001
+c00212680000
+analyzing IP packet 278
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798201183
+c001147c0001
+c00212680000
+analyzing IP packet 279
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798201183
+c00212680000
+c001147c0001
+analyzing IP packet 280
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798201183
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 281
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798201719
+c001147c0001
+c00212680000
+analyzing IP packet 282
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798201719
+c00212680000
+c001147c0001
+analyzing IP packet 283
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798201719
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 284
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798202255
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 285
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798202255
+c001147c0001
+c00212680000
+analyzing IP packet 286
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798202755
+c001147c0001
+c00212680000
+analyzing IP packet 287
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798202755
+c00212680000
+c001147c0001
+analyzing IP packet 288
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798202755
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 289
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798203291
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 290
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798203291
+c001147c0001
+c00212680000
+analyzing IP packet 291
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798203809
+c001147c0001
+c00212680000
+analyzing IP packet 292
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798203809
+c00212680000
+c001147c0001
+analyzing IP packet 293
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798203809
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 294
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798203951
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 295
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798203951
+c001147c0001
+c00212680000
+analyzing IP packet 296
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798204487
+c001147c0001
+c00212680000
+analyzing IP packet 297
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798204487
+c001147c0001
+c00212680000
+analyzing IP packet 298
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798204487
+c00212680000
+c001147c0001
+analyzing IP packet 299
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798204487
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 300
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798205023
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 301
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798205023
+c001147c0001
+c00212680000
+analyzing IP packet 302
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798205559
+c001147c0001
+c00212680000
+analyzing IP packet 303
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798205559
+c001147c0001
+c00212680000
+analyzing IP packet 304
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798205559
+c00212680000
+c001147c0001
+analyzing IP packet 305
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798205559
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 306
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798206095
+c001147c0001
+c00212680000
+analyzing IP packet 307
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798206095
+c00212680000
+c001147c0001
+analyzing IP packet 308
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798206095
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 309
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798206581
+c00212680000
+c001147c0001
+analyzing IP packet 310
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798206581
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 311
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798207117
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 312
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798207117
+c001147c0001
+c00212680000
+analyzing IP packet 313
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798207653
+c001147c0001
+c00212680000
+analyzing IP packet 314
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798207653
+c001147c0001
+c00212680000
+analyzing IP packet 315
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798207653
+c00212680000
+c001147c0001
+analyzing IP packet 316
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798207653
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 317
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798208089
+c00212680000
+c001147c0001
+analyzing IP packet 318
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798208089
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 319
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798208625
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 320
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798208625
+c001147c0001
+c00212680000
+analyzing IP packet 321
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798209161
+c001147c0001
+c00212680000
+analyzing IP packet 322
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798209161
+c001147c0001
+c00212680000
+analyzing IP packet 323
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798209161
+c00212680000
+c001147c0001
+analyzing IP packet 324
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798209161
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 325
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798209697
+c001147c0001
+c00212680000
+analyzing IP packet 326
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798209697
+c00212680000
+c001147c0001
+analyzing IP packet 327
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798209697
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 328
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798210233
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 329
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798210233
+c001147c0001
+c00212680000
+analyzing IP packet 330
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798210769
+c001147c0001
+c00212680000
+analyzing IP packet 331
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798210769
+c001147c0001
+c00212680000
+analyzing IP packet 332
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798210769
+c00212680000
+c001147c0001
+analyzing IP packet 333
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798210769
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 334
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798210863
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 335
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798210863
+c001147c0001
+c00212680000
+analyzing IP packet 336
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798211399
+c001147c0001
+c00212680000
+analyzing IP packet 337
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798211399
+c00212680000
+c001147c0001
+analyzing IP packet 338
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798211399
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 339
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798211935
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 340
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798211935
+c001147c0001
+c00212680000
+analyzing IP packet 341
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798211935
+c001147c0001
+c00212680000
+analyzing IP packet 342
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798212471
+c001147c0001
+c00212680000
+analyzing IP packet 343
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798212471
+c00212680000
+c001147c0001
+analyzing IP packet 344
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798212471
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 345
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798213007
+c001147c0001
+c00212680000
+analyzing IP packet 346
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798213007
+c00212680000
+c001147c0001
+analyzing IP packet 347
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798213007
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 348
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798213543
+c001147c0001
+c00212680000
+analyzing IP packet 349
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798213543
+c00212680000
+c001147c0001
+analyzing IP packet 350
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798213543
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 351
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798214079
+c001147c0001
+c00212680000
+analyzing IP packet 352
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798214079
+c00212680000
+c001147c0001
+analyzing IP packet 353
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798214079
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 354
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798214615
+c001147c0001
+c00212680000
+analyzing IP packet 355
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798214615
+c00212680000
+c001147c0001
+analyzing IP packet 356
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798214615
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 357
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798214703
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 358
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798214703
+c001147c0001
+c00212680000
+analyzing IP packet 359
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798215160
+c001147c0001
+c00212680000
+analyzing IP packet 360
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798215160
+c00212680000
+c001147c0001
+analyzing IP packet 361
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798215160
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 362
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798215215
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 363
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798215215
+c001147c0001
+c00212680000
+analyzing IP packet 364
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798215751
+c001147c0001
+c00212680000
+analyzing IP packet 365
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798215751
+c00212680000
+c001147c0001
+analyzing IP packet 366
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798215751
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 367
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798216250
+c00212680000
+c001147c0001
+analyzing IP packet 368
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798216250
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 369
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798216786
+c001147c0001
+c00212680000
+analyzing IP packet 370
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798216786
+c00212680000
+c001147c0001
+analyzing IP packet 371
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798216786
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 372
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798217322
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 373
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798217322
+c001147c0001
+c00212680000
+analyzing IP packet 374
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798217858
+c001147c0001
+c00212680000
+analyzing IP packet 375
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798217858
+c001147c0001
+c00212680000
+analyzing IP packet 376
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798217858
+c00212680000
+c001147c0001
+analyzing IP packet 377
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798217858
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 378
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798218394
+c001147c0001
+c00212680000
+analyzing IP packet 379
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798218394
+c00212680000
+c001147c0001
+analyzing IP packet 380
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798218394
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 381
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798218930
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 382
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798218930
+c001147c0001
+c00212680000
+analyzing IP packet 383
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798219466
+c001147c0001
+c00212680000
+analyzing IP packet 384
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798219466
+c001147c0001
+c00212680000
+analyzing IP packet 385
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798219466
+c00212680000
+c001147c0001
+analyzing IP packet 386
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798219466
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 387
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798220002
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 388
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798220002
+c001147c0001
+c00212680000
+analyzing IP packet 389
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798220538
+c001147c0001
+c00212680000
+analyzing IP packet 390
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798220538
+c001147c0001
+c00212680000
+analyzing IP packet 391
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798220538
+c00212680000
+c001147c0001
+analyzing IP packet 392
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798220538
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 393
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798221074
+c001147c0001
+c00212680000
+analyzing IP packet 394
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798221074
+c00212680000
+c001147c0001
+analyzing IP packet 395
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798221074
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 396
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798221610
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 397
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798221610
+c001147c0001
+c00212680000
+analyzing IP packet 398
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798222146
+c001147c0001
+c00212680000
+analyzing IP packet 399
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798222146
+c001147c0001
+c00212680000
+analyzing IP packet 400
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798222146
+c00212680000
+c001147c0001
+analyzing IP packet 401
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798222146
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 402
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798222679
+c00212680000
+c001147c0001
+analyzing IP packet 403
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798222679
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 404
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798223215
+c001147c0001
+c00212680000
+analyzing IP packet 405
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798223215
+c00212680000
+c001147c0001
+analyzing IP packet 406
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798223215
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 407
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798223751
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 408
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798223751
+c001147c0001
+c00212680000
+analyzing IP packet 409
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798224287
+c001147c0001
+c00212680000
+analyzing IP packet 410
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798224287
+c001147c0001
+c00212680000
+analyzing IP packet 411
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798224287
+c00212680000
+c001147c0001
+analyzing IP packet 412
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798224287
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 413
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798224823
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 414
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798224823
+c001147c0001
+c00212680000
+analyzing IP packet 415
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798224823
+c001147c0001
+c00212680000
+analyzing IP packet 416
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798225359
+c001147c0001
+c00212680000
+analyzing IP packet 417
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798225359
+c00212680000
+c001147c0001
+analyzing IP packet 418
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798225359
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 419
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798225895
+c001147c0001
+c00212680000
+analyzing IP packet 420
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798225895
+c00212680000
+c001147c0001
+analyzing IP packet 421
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798225895
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 422
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798226431
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 423
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798226431
+c001147c0001
+c00212680000
+analyzing IP packet 424
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798226967
+c001147c0001
+c00212680000
+analyzing IP packet 425
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798226967
+c001147c0001
+c00212680000
+analyzing IP packet 426
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798226967
+c00212680000
+c001147c0001
+analyzing IP packet 427
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798226967
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 428
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798227503
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 429
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798227503
+c001147c0001
+c00212680000
+analyzing IP packet 430
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798227503
+c001147c0001
+c00212680000
+analyzing IP packet 431
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798228039
+c001147c0001
+c00212680000
+analyzing IP packet 432
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798228039
+c00212680000
+c001147c0001
+analyzing IP packet 433
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798228039
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 434
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798228575
+c001147c0001
+c00212680000
+analyzing IP packet 435
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798228575
+c00212680000
+c001147c0001
+analyzing IP packet 436
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798228575
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 437
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798229111
+c001147c0001
+c00212680000
+analyzing IP packet 438
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798229111
+c00212680000
+c001147c0001
+analyzing IP packet 439
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798229111
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 440
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798229647
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 441
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798229647
+c001147c0001
+c00212680000
+analyzing IP packet 442
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798230183
+c001147c0001
+c00212680000
+analyzing IP packet 443
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798230183
+c001147c0001
+c00212680000
+analyzing IP packet 444
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798230183
+c00212680000
+c001147c0001
+analyzing IP packet 445
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798230183
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 446
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798230319
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 447
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798230319
+c001147c0001
+c00212680000
+analyzing IP packet 448
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798230855
+c001147c0001
+c00212680000
+analyzing IP packet 449
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798230855
+c00212680000
+c001147c0001
+analyzing IP packet 450
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798230855
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 451
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798231257
+c00212680000
+c001147c0001
+analyzing IP packet 452
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798231257
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 453
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798231727
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 454
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798231727
+c001147c0001
+c00212680000
+analyzing IP packet 455
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798232263
+c001147c0001
+c00212680000
+analyzing IP packet 456
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798232263
+c001147c0001
+c00212680000
+analyzing IP packet 457
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798232263
+c00212680000
+c001147c0001
+analyzing IP packet 458
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798232263
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 459
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798232799
+c001147c0001
+c00212680000
+analyzing IP packet 460
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798232799
+c00212680000
+c001147c0001
+analyzing IP packet 461
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798232799
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 462
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798233335
+c001147c0001
+c00212680000
+analyzing IP packet 463
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798233335
+c00212680000
+c001147c0001
+analyzing IP packet 464
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798233335
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 465
+tos:2
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798233871
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 466
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798233871
+c001147c0001
+c00212680000
+analyzing IP packet 467
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798234407
+c001147c0001
+c00212680000
+analyzing IP packet 468
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798234407
+c001147c0001
+c00212680000
+analyzing IP packet 469
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798234407
+c00212680000
+c001147c0001
+analyzing IP packet 470
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798234407
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 471
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798234943
+c001147c0001
+c00212680000
+analyzing IP packet 472
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798234943
+c00212680000
+c001147c0001
+analyzing IP packet 473
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798234943
+ack:179265776
+c00212680000
+c001147c0001
+analyzing IP packet 474
+tos:3
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798235479
+ack:179265776
+c001147c0001
+c00212680000
+analyzing IP packet 475
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798235479
+c001147c0001
+c00212680000
+analyzing IP packet 476
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798235618
+c001147c0001
+c00212680000
+analyzing IP packet 477
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798235618
+c001147c0001
+c00212680000
+analyzing IP packet 478
+tos:0
+source address:1.1.23.3
+destination address:1.1.12.1
+source port:46557
+destination port:80
+urgent pointer:0
+seq :179265776
+ack:2798235618
+c00212680000
+c001147c0001
+analyzing IP packet 479
+tos:0
+source address:1.1.12.1
+destination address:1.1.23.3
+source port:80
+destination port:46557
+urgent pointer:0
+seq :2798235618
+ack:179265777
