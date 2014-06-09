@@ -1,0 +1,15 @@
+localhost ~ # ./a.out
+
+Enter number of people: 23
+
+
+Probability(%)= 50.762000%
+
+localhost ~ # ./a.out
+
+Enter number of people: 57
+
+
+Probability(%)= 98.971000%
+
+
