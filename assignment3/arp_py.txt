@@ -1,0 +1,7464 @@
+
+
+
+
+processing packet 1:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.159
+
+
+
+
+processing packet 2:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.141
+
+
+
+
+processing packet 3:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.161
+
+
+
+
+processing packet 4:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.76
+
+
+
+
+processing packet 5:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.163
+
+
+
+
+processing packet 6:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.123
+
+
+
+
+processing packet 7:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.165
+
+
+
+
+processing packet 8:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 9:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.131
+
+
+
+
+processing packet 10:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.168
+
+
+
+
+processing packet 11:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.27
+
+
+
+
+processing packet 12:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.184
+
+
+
+
+processing packet 13:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.169
+
+
+
+
+processing packet 14:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.181
+
+
+
+
+processing packet 15:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.216
+
+
+
+
+processing packet 16:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.172
+
+
+
+
+processing packet 17:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.217
+
+
+
+
+processing packet 18:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.186
+
+
+
+
+processing packet 19:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.221
+
+
+
+
+processing packet 20:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.94
+
+
+
+
+processing packet 21:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.207
+
+
+
+
+processing packet 22:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.222
+
+
+
+
+processing packet 23:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.223
+
+
+
+
+processing packet 24:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.176
+
+
+
+
+processing packet 25:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.86
+
+
+
+
+processing packet 26:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.224
+
+
+
+
+processing packet 27:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.114
+
+
+
+
+processing packet 28:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.195
+
+
+
+
+processing packet 29:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.230
+
+
+
+
+processing packet 30:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.6
+
+
+
+
+processing packet 31:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.28
+
+
+
+
+processing packet 32:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.177
+
+
+
+
+processing packet 33:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.231
+
+
+
+
+processing packet 34:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.181
+
+
+
+
+processing packet 35:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.232
+
+
+
+
+processing packet 36:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.232
+
+
+
+
+processing packet 37:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.208
+
+
+
+
+processing packet 38:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.234
+
+
+
+
+processing packet 39:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.235
+
+
+
+
+processing packet 40:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.183
+
+
+
+
+processing packet 41:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.236
+
+
+
+
+processing packet 42:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.94.73
+
+
+
+
+processing packet 43:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.192
+
+
+
+
+processing packet 44:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.97
+
+
+
+
+processing packet 45:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.185
+
+
+
+
+processing packet 46:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.186
+
+
+
+
+processing packet 47:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.188
+
+
+
+
+processing packet 48:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.134
+
+
+
+
+processing packet 49:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.189
+
+
+
+
+processing packet 50:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.249
+
+
+
+
+processing packet 51:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.95.99
+
+
+
+
+processing packet 52:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.255
+
+
+
+
+processing packet 53:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.251
+
+
+
+
+processing packet 54:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.227
+
+
+
+
+processing packet 55:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.252
+
+
+
+
+processing packet 56:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.194
+
+
+
+
+processing packet 57:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.63
+
+
+
+
+processing packet 58:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.35
+
+
+
+
+processing packet 59:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.197
+
+
+
+
+processing packet 60:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.145.164.129
+target protocol address=24.145.164.165
+
+
+
+
+processing packet 61:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.197
+
+
+
+
+processing packet 62:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.116
+
+
+
+
+processing packet 63:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.162
+
+
+
+
+processing packet 64:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.198
+
+
+
+
+processing packet 65:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.4
+
+
+
+
+processing packet 66:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.107
+
+
+
+
+processing packet 67:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.199
+
+
+
+
+processing packet 68:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.47
+
+
+
+
+processing packet 69:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.10
+
+
+
+
+processing packet 70:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 71:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.26
+
+
+
+
+processing packet 72:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.96
+
+
+
+
+processing packet 73:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.45
+
+
+
+
+processing packet 74:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.98
+
+
+
+
+processing packet 75:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.167
+
+
+
+
+processing packet 76:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.206
+
+
+
+
+processing packet 77:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.204
+
+
+
+
+processing packet 78:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.195
+
+
+
+
+processing packet 79:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.207
+
+
+
+
+processing packet 80:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.94.124
+
+
+
+
+processing packet 81:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.209
+
+
+
+
+processing packet 82:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.213
+
+
+
+
+processing packet 83:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.75
+
+
+
+
+processing packet 84:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.238
+
+
+
+
+processing packet 85:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.211
+
+
+
+
+processing packet 86:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.117
+
+
+
+
+processing packet 87:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.252
+
+
+
+
+processing packet 88:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.169
+
+
+
+
+processing packet 89:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.21
+
+
+
+
+processing packet 90:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.216
+
+
+
+
+processing packet 91:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.18
+
+
+
+
+processing packet 92:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.217
+
+
+
+
+processing packet 93:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.123
+
+
+
+
+processing packet 94:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.222
+
+
+
+
+processing packet 95:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.237
+
+
+
+
+processing packet 96:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.216
+
+
+
+
+processing packet 97:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.217
+
+
+
+
+processing packet 98:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.226
+
+
+
+
+processing packet 99:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.181
+
+
+
+
+processing packet 100:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.228
+
+
+
+
+processing packet 101:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.94
+
+
+
+
+processing packet 102:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.186
+
+
+
+
+processing packet 103:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.222
+
+
+
+
+processing packet 104:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.223
+
+
+
+
+processing packet 105:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.221
+
+
+
+
+processing packet 106:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.27
+
+
+
+
+processing packet 107:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.191
+
+
+
+
+processing packet 108:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.231
+
+
+
+
+processing packet 109:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.224
+
+
+
+
+processing packet 110:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.3
+
+
+
+
+processing packet 111:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.232
+
+
+
+
+processing packet 112:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.230
+
+
+
+
+processing packet 113:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.231
+
+
+
+
+processing packet 114:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.234
+
+
+
+
+processing packet 115:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 116:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.114
+
+
+
+
+processing packet 117:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.235
+
+
+
+
+processing packet 118:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.232
+
+
+
+
+processing packet 119:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.95.104
+
+
+
+
+processing packet 120:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.234
+
+
+
+
+processing packet 121:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.232
+
+
+
+
+processing packet 122:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.94.33
+
+
+
+
+processing packet 123:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.72
+
+
+
+
+processing packet 124:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.40
+
+
+
+
+processing packet 125:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 126:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.97
+
+
+
+
+processing packet 127:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.4
+
+
+
+
+processing packet 128:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.235
+
+
+
+
+processing packet 129:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.236
+
+
+
+
+processing packet 130:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.242
+
+
+
+
+processing packet 131:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.139
+
+
+
+
+processing packet 132:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.167
+
+
+
+
+processing packet 133:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.10
+
+
+
+
+processing packet 134:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.245
+
+
+
+
+processing packet 135:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.13
+
+
+
+
+processing packet 136:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.249
+
+
+
+
+processing packet 137:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.251
+
+
+
+
+processing packet 138:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.252
+
+
+
+
+processing packet 139:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.168
+
+
+
+
+processing packet 140:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.17
+
+
+
+
+processing packet 141:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 142:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.27
+
+
+
+
+processing packet 143:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.197
+
+
+
+
+processing packet 144:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.64
+
+
+
+
+processing packet 145:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.188
+
+
+
+
+processing packet 146:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.255
+
+
+
+
+processing packet 147:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.196
+
+
+
+
+processing packet 148:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.8
+
+
+
+
+processing packet 149:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.185
+
+
+
+
+processing packet 150:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.189
+
+
+
+
+processing packet 151:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.197
+
+
+
+
+processing packet 152:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.45
+
+
+
+
+processing packet 153:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.98
+
+
+
+
+processing packet 154:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.31
+
+
+
+
+processing packet 155:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.222
+
+
+
+
+processing packet 156:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.83
+
+
+
+
+processing packet 157:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.28
+
+
+
+
+processing packet 158:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.27
+
+
+
+
+processing packet 159:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.129
+
+
+
+
+processing packet 160:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.220
+
+
+
+
+processing packet 161:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.114
+
+
+
+
+processing packet 162:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.68
+
+
+
+
+processing packet 163:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.22
+
+
+
+
+processing packet 164:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.211
+
+
+
+
+processing packet 165:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.169
+
+
+
+
+processing packet 166:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.138
+
+
+
+
+processing packet 167:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.195
+
+
+
+
+processing packet 168:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.14
+
+
+
+
+processing packet 169:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 170:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.158
+
+
+
+
+processing packet 171:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.184
+
+
+
+
+processing packet 172:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.25
+
+
+
+
+processing packet 173:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.237
+
+
+
+
+processing packet 174:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.251
+
+
+
+
+processing packet 175:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.132
+
+
+
+
+processing packet 176:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.213
+
+
+
+
+processing packet 177:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.8
+
+
+
+
+processing packet 178:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.207
+
+
+
+
+processing packet 179:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.135
+
+
+
+
+processing packet 180:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.213
+
+
+
+
+processing packet 181:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 182:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.40
+
+
+
+
+processing packet 183:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.72
+
+
+
+
+processing packet 184:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.95.104
+
+
+
+
+processing packet 185:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.94.33
+
+
+
+
+processing packet 186:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.152
+
+
+
+
+processing packet 187:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.208
+
+
+
+
+processing packet 188:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.213
+
+
+
+
+processing packet 189:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.192
+
+
+
+
+processing packet 190:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.25
+
+
+
+
+processing packet 191:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.65
+
+
+
+
+processing packet 192:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.210
+
+
+
+
+processing packet 193:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.10
+
+
+
+
+processing packet 194:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.6
+
+
+
+
+processing packet 195:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.95.207
+
+
+
+
+processing packet 196:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.13
+
+
+
+
+processing packet 197:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.132
+
+
+
+
+processing packet 198:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.228
+
+
+
+
+processing packet 199:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.139
+
+
+
+
+processing packet 200:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.145.164.129
+target protocol address=24.145.164.174
+
+
+
+
+processing packet 201:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.199
+
+
+
+
+processing packet 202:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.17
+
+
+
+
+processing packet 203:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.27
+
+
+
+
+processing packet 204:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.64
+
+
+
+
+processing packet 205:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.188
+
+
+
+
+processing packet 206:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.106
+
+
+
+
+processing packet 207:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.77
+
+
+
+
+processing packet 208:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.29
+
+
+
+
+processing packet 209:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.71
+
+
+
+
+processing packet 210:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.116
+
+
+
+
+processing packet 211:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.39
+
+
+
+
+processing packet 212:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.10
+
+
+
+
+processing packet 213:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.28
+
+
+
+
+processing packet 214:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.83
+
+
+
+
+processing packet 215:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.8
+
+
+
+
+processing packet 216:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.185
+
+
+
+
+processing packet 217:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.23.182.1
+target protocol address=69.23.182.253
+
+
+
+
+processing packet 218:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.15
+
+
+
+
+processing packet 219:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.19
+
+
+
+
+processing packet 220:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.189
+
+
+
+
+processing packet 221:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.196
+
+
+
+
+processing packet 222:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.226
+
+
+
+
+processing packet 223:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.167
+
+
+
+
+processing packet 224:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.222
+
+
+
+
+processing packet 225:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.129
+
+
+
+
+processing packet 226:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.220
+
+
+
+
+processing packet 227:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.243
+
+
+
+
+processing packet 228:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.75
+
+
+
+
+processing packet 229:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.151
+
+
+
+
+processing packet 230:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.218
+
+
+
+
+processing packet 231:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.22
+
+
+
+
+processing packet 232:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 233:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.195
+
+
+
+
+processing packet 234:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.211
+
+
+
+
+processing packet 235:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.6
+
+
+
+
+processing packet 236:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.68
+
+
+
+
+processing packet 237:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.17
+
+
+
+
+processing packet 238:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.138
+
+
+
+
+processing packet 239:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 240:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.251
+
+
+
+
+processing packet 241:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.25
+
+
+
+
+processing packet 242:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.132
+
+
+
+
+processing packet 243:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.248
+
+
+
+
+processing packet 244:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.213
+
+
+
+
+processing packet 245:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.49
+
+
+
+
+processing packet 246:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.8
+
+
+
+
+processing packet 247:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.228
+
+
+
+
+processing packet 248:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.135
+
+
+
+
+processing packet 249:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.197
+
+
+
+
+processing packet 250:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.213
+
+
+
+
+processing packet 251:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.194
+
+
+
+
+processing packet 252:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.111
+
+
+
+
+processing packet 253:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.25
+
+
+
+
+processing packet 254:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.152
+
+
+
+
+processing packet 255:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.184
+
+
+
+
+processing packet 256:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.86
+
+
+
+
+processing packet 257:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.112
+
+
+
+
+processing packet 258:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.65
+
+
+
+
+processing packet 259:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.97
+
+
+
+
+processing packet 260:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.213
+
+
+
+
+processing packet 261:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.94.73
+
+
+
+
+processing packet 262:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.122
+
+
+
+
+processing packet 263:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.117
+
+
+
+
+processing packet 264:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.236
+
+
+
+
+processing packet 265:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.64
+
+
+
+
+processing packet 266:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.154
+
+
+
+
+processing packet 267:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.228
+
+
+
+
+processing packet 268:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.249
+
+
+
+
+processing packet 269:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.201
+
+
+
+
+processing packet 270:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 271:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.199
+
+
+
+
+processing packet 272:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.106
+
+
+
+
+processing packet 273:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.77
+
+
+
+
+processing packet 274:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.71
+
+
+
+
+processing packet 275:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.197
+
+
+
+
+processing packet 276:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.15
+
+
+
+
+processing packet 277:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.29
+
+
+
+
+processing packet 278:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.8
+
+
+
+
+processing packet 279:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.74
+
+
+
+
+processing packet 280:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.191
+
+
+
+
+processing packet 281:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.23.182.1
+target protocol address=69.23.182.253
+
+
+
+
+processing packet 282:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.193
+
+
+
+
+processing packet 283:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.19
+
+
+
+
+processing packet 284:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.10
+
+
+
+
+processing packet 285:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.226
+
+
+
+
+processing packet 286:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.93
+
+
+
+
+processing packet 287:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.39
+
+
+
+
+processing packet 288:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.49
+
+
+
+
+processing packet 289:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.75
+
+
+
+
+processing packet 290:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.6
+
+
+
+
+processing packet 291:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.151
+
+
+
+
+processing packet 292:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.22
+
+
+
+
+processing packet 293:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.102
+
+
+
+
+processing packet 294:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.233
+
+
+
+
+processing packet 295:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.189
+
+
+
+
+processing packet 296:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.28
+
+
+
+
+processing packet 297:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 298:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.235
+
+
+
+
+processing packet 299:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.133
+
+
+
+
+processing packet 300:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.78
+
+
+
+
+processing packet 301:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.5
+
+
+
+
+processing packet 302:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.90
+
+
+
+
+processing packet 303:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.59
+
+
+
+
+processing packet 304:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 305:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.184
+
+
+
+
+processing packet 306:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.65
+
+
+
+
+processing packet 307:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.252
+
+
+
+
+processing packet 308:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.218
+
+
+
+
+processing packet 309:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.249
+
+
+
+
+processing packet 310:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.169
+
+
+
+
+processing packet 311:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.49
+
+
+
+
+processing packet 312:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.228
+
+
+
+
+processing packet 313:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.38
+
+
+
+
+processing packet 314:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.196
+
+
+
+
+processing packet 315:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.194
+
+
+
+
+processing packet 316:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.111
+
+
+
+
+processing packet 317:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.181
+
+
+
+
+processing packet 318:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.248
+
+
+
+
+processing packet 319:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.25
+
+
+
+
+processing packet 320:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.112
+
+
+
+
+processing packet 321:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.72
+
+
+
+
+processing packet 322:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.86
+
+
+
+
+processing packet 323:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.117
+
+
+
+
+processing packet 324:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.122
+
+
+
+
+processing packet 325:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 326:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.236
+
+
+
+
+processing packet 327:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.135
+
+
+
+
+processing packet 328:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.213
+
+
+
+
+processing packet 329:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.249
+
+
+
+
+processing packet 330:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.154
+
+
+
+
+processing packet 331:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.201
+
+
+
+
+processing packet 332:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.10
+
+
+
+
+processing packet 333:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.171
+
+
+
+
+processing packet 334:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.17
+
+
+
+
+processing packet 335:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.131
+
+
+
+
+processing packet 336:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.105
+
+
+
+
+processing packet 337:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.232
+
+
+
+
+processing packet 338:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.19
+
+
+
+
+processing packet 339:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.25
+
+
+
+
+processing packet 340:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.188
+
+
+
+
+processing packet 341:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.74
+
+
+
+
+processing packet 342:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.222
+
+
+
+
+processing packet 343:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.193
+
+
+
+
+processing packet 344:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.191
+
+
+
+
+processing packet 345:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.25
+
+
+
+
+processing packet 346:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.45
+
+
+
+
+processing packet 347:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.185
+
+
+
+
+processing packet 348:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.189
+
+
+
+
+processing packet 349:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.195
+
+
+
+
+processing packet 350:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.49
+
+
+
+
+processing packet 351:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.93
+
+
+
+
+processing packet 352:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.192
+
+
+
+
+processing packet 353:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.75
+
+
+
+
+processing packet 354:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.23
+
+
+
+
+processing packet 355:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.164
+
+
+
+
+processing packet 356:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.133
+
+
+
+
+processing packet 357:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 358:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.233
+
+
+
+
+processing packet 359:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.6
+
+
+
+
+processing packet 360:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.22
+
+
+
+
+processing packet 361:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.102
+
+
+
+
+processing packet 362:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.195
+
+
+
+
+processing packet 363:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.235
+
+
+
+
+processing packet 364:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.26
+
+
+
+
+processing packet 365:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.236
+
+
+
+
+processing packet 366:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.211
+
+
+
+
+processing packet 367:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.5
+
+
+
+
+processing packet 368:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.137
+
+
+
+
+processing packet 369:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.145
+
+
+
+
+processing packet 370:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.201
+
+
+
+
+processing packet 371:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.90
+
+
+
+
+processing packet 372:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.252
+
+
+
+
+processing packet 373:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.65
+
+
+
+
+processing packet 374:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.169
+
+
+
+
+processing packet 375:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.59
+
+
+
+
+processing packet 376:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.249
+
+
+
+
+processing packet 377:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.135
+
+
+
+
+processing packet 378:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.196
+
+
+
+
+processing packet 379:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.134
+
+
+
+
+processing packet 380:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.181
+
+
+
+
+processing packet 381:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.172
+
+
+
+
+processing packet 382:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.54
+
+
+
+
+processing packet 383:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 384:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.225
+
+
+
+
+processing packet 385:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.25
+
+
+
+
+processing packet 386:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.167
+
+
+
+
+processing packet 387:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.173
+
+
+
+
+processing packet 388:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.135
+
+
+
+
+processing packet 389:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.105
+
+
+
+
+processing packet 390:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.199
+
+
+
+
+processing packet 391:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 392:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.165
+
+
+
+
+processing packet 393:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.131
+
+
+
+
+processing packet 394:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.232
+
+
+
+
+processing packet 395:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.19
+
+
+
+
+processing packet 396:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.225
+
+
+
+
+processing packet 397:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.25
+
+
+
+
+processing packet 398:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.106
+
+
+
+
+processing packet 399:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.36
+
+
+
+
+processing packet 400:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.25
+
+
+
+
+processing packet 401:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.45
+
+
+
+
+processing packet 402:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.56
+
+
+
+
+processing packet 403:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.195
+
+
+
+
+processing packet 404:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.24
+
+
+
+
+processing packet 405:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.192
+
+
+
+
+processing packet 406:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.23
+
+
+
+
+processing packet 407:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 408:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.164
+
+
+
+
+processing packet 409:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.18
+
+
+
+
+processing packet 410:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.191
+
+
+
+
+processing packet 411:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.26
+
+
+
+
+processing packet 412:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.251
+
+
+
+
+processing packet 413:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.176
+
+
+
+
+processing packet 414:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.236
+
+
+
+
+processing packet 415:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.92
+
+
+
+
+processing packet 416:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.6
+
+
+
+
+processing packet 417:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.201
+
+
+
+
+processing packet 418:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.215
+
+
+
+
+processing packet 419:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.195
+
+
+
+
+processing packet 420:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 421:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.218
+
+
+
+
+processing packet 422:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.94.73
+
+
+
+
+processing packet 423:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.184
+
+
+
+
+processing packet 424:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.225
+
+
+
+
+processing packet 425:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.136
+
+
+
+
+processing packet 426:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.75
+
+
+
+
+processing packet 427:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.173
+
+
+
+
+processing packet 428:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.134
+
+
+
+
+processing packet 429:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.194
+
+
+
+
+processing packet 430:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.44
+
+
+
+
+processing packet 431:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.110
+
+
+
+
+processing packet 432:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.225
+
+
+
+
+processing packet 433:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.25
+
+
+
+
+processing packet 434:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.86
+
+
+
+
+processing packet 435:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.54
+
+
+
+
+processing packet 436:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.172
+
+
+
+
+processing packet 437:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.122
+
+
+
+
+processing packet 438:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.167
+
+
+
+
+processing packet 439:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.250
+
+
+
+
+processing packet 440:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.116
+
+
+
+
+processing packet 441:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.141
+
+
+
+
+processing packet 442:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.201
+
+
+
+
+processing packet 443:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.79
+
+
+
+
+processing packet 444:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.9
+
+
+
+
+processing packet 445:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.197
+
+
+
+
+processing packet 446:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.165
+
+
+
+
+processing packet 447:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.195
+
+
+
+
+processing packet 448:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.207
+
+
+
+
+processing packet 449:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 450:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.199
+
+
+
+
+processing packet 451:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.225
+
+
+
+
+processing packet 452:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.36
+
+
+
+
+processing packet 453:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.181
+
+
+
+
+processing packet 454:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.177
+
+
+
+
+processing packet 455:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.191
+
+
+
+
+processing packet 456:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.208
+
+
+
+
+processing packet 457:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 458:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.56
+
+
+
+
+processing packet 459:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.67
+
+
+
+
+processing packet 460:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.211
+
+
+
+
+processing packet 461:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.192
+
+
+
+
+processing packet 462:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.12
+
+
+
+
+processing packet 463:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.234
+
+
+
+
+processing packet 464:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.17
+
+
+
+
+processing packet 465:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.24
+
+
+
+
+processing packet 466:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.177
+
+
+
+
+processing packet 467:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 468:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.113
+
+
+
+
+processing packet 469:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.197
+
+
+
+
+processing packet 470:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.92
+
+
+
+
+processing packet 471:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.18
+
+
+
+
+processing packet 472:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.160
+
+
+
+
+processing packet 473:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.207
+
+
+
+
+processing packet 474:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.251
+
+
+
+
+processing packet 475:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.215
+
+
+
+
+processing packet 476:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.176
+
+
+
+
+processing packet 477:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.167
+
+
+
+
+processing packet 478:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.225
+
+
+
+
+processing packet 479:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.136
+
+
+
+
+processing packet 480:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.244
+
+
+
+
+processing packet 481:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.145.164.129
+target protocol address=24.145.164.158
+
+
+
+
+processing packet 482:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.82
+
+
+
+
+processing packet 483:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.95.46
+
+
+
+
+processing packet 484:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.44
+
+
+
+
+processing packet 485:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.110
+
+
+
+
+processing packet 486:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.65
+
+
+
+
+processing packet 487:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.14
+
+
+
+
+processing packet 488:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.187
+
+
+
+
+processing packet 489:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.73
+
+
+
+
+processing packet 490:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.141
+
+
+
+
+processing packet 491:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.116
+
+
+
+
+processing packet 492:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.9
+
+
+
+
+processing packet 493:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.105
+
+
+
+
+processing packet 494:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.79
+
+
+
+
+processing packet 495:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.195
+
+
+
+
+processing packet 496:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.207
+
+
+
+
+processing packet 497:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.197
+
+
+
+
+processing packet 498:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.243
+
+
+
+
+processing packet 499:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.165
+
+
+
+
+processing packet 500:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 501:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.197
+
+
+
+
+processing packet 502:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.177
+
+
+
+
+processing packet 503:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.45
+
+
+
+
+processing packet 504:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.254
+
+
+
+
+processing packet 505:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.208
+
+
+
+
+processing packet 506:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.216.12
+
+
+
+
+processing packet 507:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.211
+
+
+
+
+processing packet 508:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.192
+
+
+
+
+processing packet 509:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.169
+
+
+
+
+processing packet 510:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 511:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.67
+
+
+
+
+processing packet 512:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.250
+
+
+
+
+processing packet 513:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.195
+
+
+
+
+processing packet 514:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.113
+
+
+
+
+processing packet 515:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.177
+
+
+
+
+processing packet 516:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 517:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.195
+
+
+
+
+processing packet 518:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.160
+
+
+
+
+processing packet 519:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.102
+
+
+
+
+processing packet 520:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.41
+
+
+
+
+processing packet 521:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.207
+
+
+
+
+processing packet 522:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.191
+
+
+
+
+processing packet 523:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.57
+
+
+
+
+processing packet 524:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.26
+
+
+
+
+processing packet 525:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.49
+
+
+
+
+processing packet 526:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.225
+
+
+
+
+processing packet 527:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.176
+
+
+
+
+processing packet 528:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.220
+
+
+
+
+processing packet 529:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.33
+
+
+
+
+processing packet 530:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.59
+
+
+
+
+processing packet 531:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.151
+
+
+
+
+processing packet 532:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.215
+
+
+
+
+processing packet 533:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.39
+
+
+
+
+processing packet 534:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.82
+
+
+
+
+processing packet 535:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.210
+
+
+
+
+processing packet 536:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.95.46
+
+
+
+
+processing packet 537:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.158
+
+
+
+
+processing packet 538:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.124
+
+
+
+
+processing packet 539:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.39
+
+
+
+
+processing packet 540:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.83
+
+
+
+
+processing packet 541:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.83
+
+
+
+
+processing packet 542:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.109
+
+
+
+
+processing packet 543:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.95.159
+
+
+
+
+processing packet 544:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.14
+
+
+
+
+processing packet 545:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.75
+
+
+
+
+processing packet 546:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.73
+
+
+
+
+processing packet 547:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.187
+
+
+
+
+processing packet 548:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.167
+
+
+
+
+processing packet 549:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.116
+
+
+
+
+processing packet 550:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.71
+
+
+
+
+processing packet 551:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.172
+
+
+
+
+processing packet 552:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.100
+
+
+
+
+processing packet 553:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.157
+
+
+
+
+processing packet 554:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.165
+
+
+
+
+processing packet 555:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.226
+
+
+
+
+processing packet 556:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.236
+
+
+
+
+processing packet 557:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.243
+
+
+
+
+processing packet 558:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.220
+
+
+
+
+processing packet 559:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.165
+
+
+
+
+processing packet 560:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.16
+
+
+
+
+processing packet 561:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.7
+
+
+
+
+processing packet 562:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.199
+
+
+
+
+processing packet 563:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.197
+
+
+
+
+processing packet 564:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.15
+
+
+
+
+processing packet 565:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.254
+
+
+
+
+processing packet 566:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.172.105
+
+
+
+
+processing packet 567:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.181
+
+
+
+
+processing packet 568:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.92.96
+
+
+
+
+processing packet 569:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.218
+
+
+
+
+processing packet 570:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.102
+
+
+
+
+processing packet 571:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=67.52.222.1
+target protocol address=67.52.222.18
+
+
+
+
+processing packet 572:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.82
+
+
+
+
+processing packet 573:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.64
+
+
+
+
+processing packet 574:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.94.127
+
+
+
+
+processing packet 575:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.28.78.1
+target protocol address=65.28.78.191
+
+
+
+
+processing packet 576:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.160
+
+
+
+
+processing packet 577:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.108
+
+
+
+
+processing packet 578:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.57
+
+
+
+
+processing packet 579:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.71.1
+target protocol address=65.26.71.49
+
+
+
+
+processing packet 580:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.213
+
+
+
+
+processing packet 581:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.103
+
+
+
+
+processing packet 582:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.225
+
+
+
+
+processing packet 583:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.176
+
+
+
+
+processing packet 584:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.220
+
+
+
+
+processing packet 585:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.171
+
+
+
+
+processing packet 586:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=65.26.92.1
+target protocol address=65.26.93.17
+
+
+
+
+processing packet 587:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.59
+
+
+
+
+processing packet 588:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.214
+
+
+
+
+processing packet 589:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.151
+
+
+
+
+processing packet 590:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.207
+
+
+
+
+processing packet 591:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.215
+
+
+
+
+processing packet 592:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.251
+
+
+
+
+processing packet 593:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.39
+
+
+
+
+processing packet 594:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.58
+
+
+
+
+processing packet 595:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.158
+
+
+
+
+processing packet 596:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.177
+
+
+
+
+processing packet 597:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.219
+
+
+
+
+processing packet 598:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.42
+
+
+
+
+processing packet 599:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.44
+
+
+
+
+processing packet 600:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.125
+
+
+
+
+processing packet 601:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.39
+
+
+
+
+processing packet 602:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.220.83
+
+
+
+
+processing packet 603:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.83
+
+
+
+
+processing packet 604:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.81
+
+
+
+
+processing packet 605:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.109
+
+
+
+
+processing packet 606:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.89
+
+
+
+
+processing packet 607:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.207
+
+
+
+
+processing packet 608:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.217.75
+
+
+
+
+processing packet 609:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.182
+
+
+
+
+processing packet 610:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.116
+
+
+
+
+processing packet 611:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.71
+
+
+
+
+processing packet 612:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.221.172
+
+
+
+
+processing packet 613:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.219.100
+
+
+
+
+processing packet 614:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.218.226
+
+
+
+
+processing packet 615:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.223.81
+
+
+
+
+processing packet 616:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.102
+
+
+
+
+processing packet 617:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.174.236
+
+
+
+
+processing packet 618:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.173.186
+
+
+
+
+processing packet 619:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.16
+
+
+
+
+processing packet 620:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=24.166.172.1
+target protocol address=24.166.175.220
+
+
+
+
+processing packet 621:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.81.17.1
+target protocol address=69.81.17.7
+
+
+
+
+processing packet 622:
+source=00070daff454
+destination=ffffffffffff
+operation:1
+source hardware address=00070daff454
+target hardware address=000000000000
+source protocol address=69.76.216.1
+target protocol address=69.76.222.15
