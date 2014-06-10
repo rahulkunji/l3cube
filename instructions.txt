@@ -17,6 +17,8 @@ compile the code using any IDE like codeblocks
 place weblog.txt in D: drive
 Output is observed in output.txt
 
+Explanation: A simple search based on proxy is carried out and a summary is 
+displayed accordingly
 
 2. Is Birthday paradox really valid?
 -----------------------------------------
@@ -33,6 +35,12 @@ output:birthday_paradox_op.txt
 
 Simply compile B.C using any compiler and execute
 
+Explanation: 
+We have tried to confirm the birthday paradox by generating N random birthdays
+and also, we provided a function to tell the actual probality, by using
+mathematics(Permutations and combinations) to display what would be the 
+actual probablity for n number of people.
+Note: here n is given by the user
 
 3. TCP/IP data 
 -----------------
@@ -104,6 +112,8 @@ commands for running svc(Linux)
 ./clean.sh to delete all versions of a file
 2 invalid input files are also provided
 
+Explanation:
+
 All the data is stored in a file called ".head" (. prefix to hide it from
 general user). The data is stored here along with the timestamp of the commit
 and the version number
@@ -120,6 +130,7 @@ output: duplicate_finder.txt
 code: duplicate_finder.sh
 run ./duplicate_finder in linux
 
+Explanation:
 We have used ls -R command to recursively traverse all subdirectories,
 starting from the home directory. All the results are stored in a temporary
 file and then all files which have the same name are run through the diff
