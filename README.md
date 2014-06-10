@@ -9,6 +9,7 @@ Assignment 5)Finding duplicate files
 Refer to instructions.txt to get info about these assignments
 All assignments are placed in relevant assignment folders- labelled as assignment1 to assignment5
 
+Group ID:11
 
 Group name: RED
 
