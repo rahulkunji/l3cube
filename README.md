@@ -6,7 +6,7 @@ Assignment 3)Decoding TCP and ARP
 Assignment 4)Simple version control
 Assignment 5)Finding duplicate files
 
-
+Refer to instructions.txt to get info about these assignments
 
 Group name: RED
 Members:
