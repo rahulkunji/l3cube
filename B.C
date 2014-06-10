@@ -3,8 +3,19 @@
 #include <stdlib.h>
 #include <time.h>
 #define NO_OF_TRIALS 100000
+float actual_prob(int n)
+{
+	float p=1;
+	int i;
+	for(i=1;i<n;i++)
+	{
+		p*=(365.0-i)/365.0;
+	}
+	return (1-p)*100;
+}
+
 //1 lakh trial runs . To improve accuracy increase to 10 lakhs or 1 crore
-int main()
+int main(void)
 {
 	int hash[365],n,index;
 	int j;
@@ -28,6 +39,6 @@ int main()
 		}
 	}
 	printf("\n\nProbability(%%)= %lf%%\n\n",((cnt*1.0)/NO_OF_TRIALS)*100.0);
-
+	printf("\n\nActual probality(%%)=%lf%%\n\n",actual_prob(n));
 	return 0;
 }
