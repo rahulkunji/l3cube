@@ -1,0 +1,113 @@
+Assignment 1:
+1. Making sense out of HTTP log file
+------------------------------
+-------------
+Download the HTTP log file from the following site - (weblog.txt)
+ 
+https://sites.google.com/site/stats202/data
+ 
+Think of the interesting ways of presenting the data from the file. 
+
+Solution:
+input file:weblog.txt
+code: http.c
+output:http_op.txt
+
+compile the code using any IDE like codeblocks
+place weblog.txt in D: drive
+Output is observed in output.txt
+
+
+2. Is Birthday paradox really valid?
+-----------------------------------------
+ 
+Write a code that verifies - birthday paradox is indeed correct.
+ 
+(Note : Think of ways you could run 'random experiments'. We agree this problem is hard.) 
+
+Solution:
+
+input: stdin --> number of people
+code: B.C 
+output:birthday_paradox_op.txt
+
+Simply compile B.C using any compiler and execute
+
+
+3. TCP/IP data 
+-----------------
+ 
+We have attached two  PCAP files. You are supposed to display the data that is present in the files. Even printing the summary would get some credits. Extra credits for a much detailed report.  Please find attached pcap files. We are looking for your programming skills so please dont use any softwares which directly display this data :)
+
+Solution:
+
+input:arp-storm.pcap,tcp-ecn-sample.pcap
+code: arpparser.cpp, python_arpparser.py python_tcpparser.py
+output: arpop_C.txt(C based approach for solving arp)
+arp_py.txt python  generated output
+tcp_py.txt python  generated output 
+
+4.)4. Simple version control
+------------------------------------
+
+GOAL:
+Create a simple version control (svc) program called "svc".
+
+DETAILS:
+We have a text file that needs version control i.e., ability to revert back
+to any previous version.  
+- The text that is composed of one or more lines.
+- Each line has a maximum character width of 10 characters (including newline).
+- The total number of lines is 20.
+
+The following operations are permitted:
+1. Appending a new line at the end of the file.
+2. Deleting any existing line.
+
+Only one of the above operations can be done at a given time i.e., the user
+can either append a line -or- delete a line. After each operation, the file
+is commited using the svc. 
+
+The usage of svc is the following
+svc filename   : To commit
+svc N          : Output Nth version of the file.
+
+A sample flow is as follows:
+1. Create a file test.txt
+2. test.txt has the following line:
+hello
+3. Commit "svc test.txt" /* Version 0 */
+4. Add another line:
+world
+5. Commit "svc test.txt" /* Version 1 */
+6. Display version 1 "svc 1"
+hello
+world
+7. Display version 0 "svc 0"
+hello
+8. Delete the line hello  and then run "svc test.txt"
+9. Disp
+
+solution: 
+input: any text file- say hello.c
+code: svc.sh
+output: present in svc_op.txt
+
+commands for running svc(Linux)
+
+./svc.sh commit <filename> 
+./svc.sh version <filename> <version_number> displays particular file version
+./clean.sh to delete all versions of a file
+2 invalid input files are also provided
+
+5) finding duplicates in harddrive and give option to delete them
+
+
+input: nothing
+output: duplicate_finder.txt
+code: duplicate_finder.sh
+run ./duplicate_finder in linux
+
+
+
+
