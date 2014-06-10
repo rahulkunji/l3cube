@@ -1,0 +1,114 @@
+localhost l3cube # ./duplicate_finder.sh 
+
+ah.py occured 2 times
+
+
+Duplicates are:
+
+./dpkt-1.8/dpkt/ah.py
+./dpkt-1.8/build/lib/dpkt/ah.py
+
+
+
+ FILES ./dpkt-1.8/dpkt/ah.py and ./dpkt-1.8/build/lib/dpkt/ah.py have same content
+
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+-1
+
+aim.py occured 2 times
+
+
+Duplicates are:
+
+./dpkt-1.8/dpkt/aim.py
+./dpkt-1.8/build/lib/dpkt/aim.py
+
+
+
+ FILES ./dpkt-1.8/dpkt/aim.py and ./dpkt-1.8/build/lib/dpkt/aim.py have same content
+
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+-1
+
+a.out occured 2 times
+
+
+Duplicates are:
+
+./PradnyaProblems/pradnya_probs/dropping_balls/a.out
+./a.out
+
+
+
+Contentwise -there exist no duplicates
+
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+^Z
+[2]+  Stopped                 ./duplicate_finder.sh
+localhost l3cube # ./duplicate_finder.sh 
+
+ah.py occured 2 times
+
+
+Duplicates are:
+
+./dpkt-1.8/dpkt/ah.py
+./dpkt-1.8/build/lib/dpkt/ah.py
+
+
+
+ FILES ./dpkt-1.8/dpkt/ah.py and ./dpkt-1.8/build/lib/dpkt/ah.py have same content
+
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+-1
+
+aim.py occured 2 times
+
+
+Duplicates are:
+
+./dpkt-1.8/dpkt/aim.py
+./dpkt-1.8/build/lib/dpkt/aim.py
+
+
+
+ FILES ./dpkt-1.8/dpkt/aim.py and ./dpkt-1.8/build/lib/dpkt/aim.py have same content
+
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+-1
+
+a.out occured 2 times
+
+
+Duplicates are:
+
+./PradnyaProblems/pradnya_probs/dropping_balls/a.out
+./a.out
+
+
+
+Contentwise -there exist no duplicates
+
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+1
+the file you have chosen for deletion is:
+./a.out
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+-1
+
+arpparser.cpp occured 2 times
+
+
+Duplicates are:
+
+./arpparser.cpp
+./l3cube/arpparser.cpp
+
+
+
+ FILES ./arpparser.cpp and ./l3cube/arpparser.cpp have same content
+
+Enter file number to be deleted:(0 to 1) -1 to delete no more files
+^Z
+[3]+  Stopped                 ./duplicate_finder.sh
+
