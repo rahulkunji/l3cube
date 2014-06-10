@@ -47,6 +47,10 @@ output: arpop_C.txt(C based approach for solving arp)
 arp_py.txt python  generated output
 tcp_py.txt python  generated output 
 
+Explanation: The DPKT libaray is a python wrapper class for reading .pcap
+files, just like libpcap in C.We have coded the python versions for tcp and
+arp pcap file parsing, and also written a C code for arp parsing
+
 4.)4. Simple version control
 ------------------------------------
 
@@ -100,6 +104,14 @@ commands for running svc(Linux)
 ./clean.sh to delete all versions of a file
 2 invalid input files are also provided
 
+All the data is stored in a file called ".head" (. prefix to hide it from
+general user). The data is stored here along with the timestamp of the commit
+and the version number
+
+Whenever the user requests a previous version through "./svc.sh version" it
+uses the grep utility to search the appropriate version number and displays
+that particular version on the screen
+
 5) finding duplicates in harddrive and give option to delete them
 
 
@@ -107,6 +119,13 @@ input: nothing
 output: duplicate_finder.txt
 code: duplicate_finder.sh
 run ./duplicate_finder in linux
+
+We have used ls -R command to recursively traverse all subdirectories,
+starting from the home directory. All the results are stored in a temporary
+file and then all files which have the same name are run through the diff
+utility- to check for content matching. 
+If the contents are same, it is stated by the program explicitly.
+The user gets a choice to delete as many files as he likes.
 
 
 
