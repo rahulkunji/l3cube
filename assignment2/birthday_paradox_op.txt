@@ -1,0 +1,23 @@
+localhost l3cube # g++ B.C
+localhost l3cube # ./a.out
+
+Enter number of people: 23
+
+
+Probability(%)= 51.048000%
+
+
+
+Actual probality(%)=50.729731%
+
+localhost l3cube # ./a.out
+
+Enter number of people: 57
+
+
+Probability(%)= 99.031000%
+
+
+
+Actual probality(%)=99.012246%
+
